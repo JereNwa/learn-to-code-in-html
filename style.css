@@ -1,0 +1,13 @@
+.title {
+font-size: 18pt;
+font-family: Helvetica Neue, Arial;
+font-weight: bold;
+}
+p {
+font-size: 10pt;
+font-family: Helvetica Neue, Arial;
+}
+.background {
+background-color: lightblue;
+padding: 12px;
+}
