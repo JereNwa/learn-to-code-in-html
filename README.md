@@ -1,2 +1,2 @@
 # learn-to-code-in-html
-This is a way for people to learn how to code.
+This is a documentation on how to code in HTML.
