@@ -1,10 +1,16 @@
 <link href="style.css" rel="stylesheet">
 
+## Documentation
+0. [Hey there!](#hey-there)
+   - [Before we start...](#before-we-start)
+1. [The Basics](#the-basics)
+
+
 ## Hey there!
 
 Ever wanted to code websites from scratch? This documentation will give you all that you need to begin coding in HTML and CSS! 
 
-## Before we start...
+### Before we start...
 
 Here are the things you will need:
 
@@ -17,9 +23,10 @@ Text editor - Notepad or TextEdit for Windows or macOS, respectively.
 
 Code editor - Visual Studio Code for both Windows and macOS.
 
-**Always remember to keep filename extensions ticked and to end the filename with _.html_.**
+> [!WARNING]
+>**Always remember to keep filename extensions ticked and to end the filename with _.html_.** 
 
-## Part One: The Basics
+## The Basics
 
 To learn HTML, we're going to have to start with the basics.
 
