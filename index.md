@@ -2,9 +2,7 @@
 
 ## Hey there!
 
-JereNwa here. If you were wondering how I made this website, then you're not the only one!
-
-I used a programming language called HTML!
+Ever wanted to code websites from scratch? This documentation will give you all that you need to begin coding in HTML and CSS! 
 
 ## Before we start...
 
