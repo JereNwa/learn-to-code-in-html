@@ -1,5 +1,7 @@
 # learn-to-code-in-html
-This is a documentation on how to create a website using HTML and CSS, perfect for beginners.<br/>
+This is a documentation on how to create a website using HTML and CSS, perfect for beginners.
+
+
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 
