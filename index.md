@@ -1,4 +1,3 @@
-|css="style.css"
 ## Hey there!
 
 JereNwa here. If you were wondering how I made this website, then you're not the only one!
