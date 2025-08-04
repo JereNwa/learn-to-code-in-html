@@ -11,4 +11,5 @@ This is a documentation on how to create a website using HTML and CSS, perfect f
 * A modern interface (thanks to [Markdowncss](https://github.com/Markdowncss)' CSS stylesheet for Markdown files.
 
 learn-to-code-in-html is under the MIT License.
+
 Copyright (c) 2025 JereNwa
