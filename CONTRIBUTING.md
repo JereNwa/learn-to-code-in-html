@@ -9,7 +9,7 @@ go to the bottom of the GitHub Pages site and click 'Improve this page'.
 
 ![A screenshot of the right-hand corner of the GitHub Pages site, with 'Improve this page' highlighted.](assets/web-corner.jpeg)
 
-2. Click the edit icon (a little pencil) in the corner.
+2. Go to the Code tab, then click the edit icon (a little pencil) in the corner.
 
 ![A screenshot of the code tab, with the edit icon highlighted.](assets/code-tab.jpeg)
 
