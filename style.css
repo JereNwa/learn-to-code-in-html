@@ -1,11 +1,8 @@
-.h2 {
-font-size: 18pt;
-font-family: Helvetica Neue, Arial;
-font-weight: bold;
+* {
+font-family: Helvetica Neue, Arial;  
 }
 p {
 font-size: 10pt;
-font-family: Helvetica Neue, Arial;
 }
 .background {
 background-color: white;
