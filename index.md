@@ -1,9 +1,9 @@
 <link href="style.css" rel="stylesheet">
 
 ## Documentation
-0. [Hey there!](#hey-there)
+1. [Hey there!](#hey-there)
    - [Before we start...](#before-we-start)
-1. [The Basics](#the-basics)
+2. [The Basics](#the-basics)
 
 
 ## Hey there!
@@ -23,7 +23,6 @@ Text editor - Notepad or TextEdit for Windows or macOS, respectively.
 
 Code editor - Visual Studio Code for both Windows and macOS.
 
-> [!WARNING]
 >**Always remember to keep filename extensions ticked and to end the filename with _.html_.** 
 
 ## The Basics
