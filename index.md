@@ -65,3 +65,15 @@ _- University of Washington_
  Thus, all of the words that are embedded in '<>' are tags, excluding the `<!DOCTYPE html>` declaration which is not a tag.
 
  ### Breakdown (cont.)
+
+Next is the `<head>` tag. This contains metadata (data about the HTML document). Metadata typically define the document title, styles, and scripts, though it does define more.
+
+ The `<title>` tag contains the name of browser tab.
+
+ The `<body>` tag contains the main part of the document, including text and images.
+
+ Last of all, the `<p>` tag is short for paragraph. It contains the text for a paragraph.
+
+ All of these come together to create a simple web page.
+
+ Now, try copying the code for the simple page and change the text and title. Run your new code. What was the result?
