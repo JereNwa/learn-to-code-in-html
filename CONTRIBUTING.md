@@ -5,7 +5,7 @@
 
 **or** 
 
-go to the bottom of the GitHub Pages site and click 'Improve this page'.
+go to the bottom of the [GitHub Pages site](https://jerenwa.github.io/learn-to-code-in-html) and click 'Improve this page'.
 
 ![A screenshot of the right-hand corner of the GitHub Pages site, with 'Improve this page' highlighted.](assets/web-corner.jpeg)
 
