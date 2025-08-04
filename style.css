@@ -1,4 +1,4 @@
-.title {
+.h2 {
 font-size: 18pt;
 font-family: Helvetica Neue, Arial;
 font-weight: bold;
@@ -8,6 +8,6 @@ font-size: 10pt;
 font-family: Helvetica Neue, Arial;
 }
 .background {
-background-color: lightblue;
+background-color: white;
 padding: 12px;
 }
