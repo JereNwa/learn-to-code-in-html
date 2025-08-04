@@ -2,7 +2,7 @@
 This is a documentation on how to create a website using HTML and CSS, perfect for beginners.
 
 
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
+[![Build Learn to Code in HTML On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 
 ## How to install
