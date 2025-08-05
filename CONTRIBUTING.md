@@ -19,4 +19,4 @@ go to the bottom of the [GitHub Pages site](https://jerenwa.github.io/learn-to-c
 
 ![A screenshot of the fork repository page.](assets/fork-repo.jpeg)
 
-4. Your changes will be checked by me, then will be added after my approval!
+4. Edit away! Don't forget to click the 'Commit changes...' button! Your changes will be checked by me, then will be added after my approval!
