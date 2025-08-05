@@ -21,5 +21,5 @@ Copyright (c) 2025 JereNwa
 The Modest CSS stylesheet is under the MIT License.<br/>
 Copyright (c) 2014-2015 John Otander
 
-San Fransico font (c) Apple, Inc.
+San Fransico font (c) 2015, Apple, Inc.
 
