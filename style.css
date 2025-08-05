@@ -1,5 +1,16 @@
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
-@import url('https://jerenwa.github.io/how-to-code-in-html/assets/SFMono-Regular.otf');
+
+@font-face {
+    font-family: SF Mono;
+    src: url("assets/SFMono-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SF Mono;
+    font-weight: bold;
+    src: url("assets/SFMono-Bold.otf") format("opentype");
+}
+
 
 @media print {
   *,
@@ -63,7 +74,7 @@
 
 pre,
 code {
-  font-family: "SF Mono Regular", monospace;
+  font-family: "SF Mono", monospace;
 }
 
 pre {
