@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: SF Mono;
-    src: url("assets/SFMono-Regular.otf") format("opentype");
+    src: url("https://jerenwa.github.io/learn-to-code-in-html/assets/SFMono-Regular.otf") format("opentype");
 }
 
 @font-face {
     font-family: SF Mono;
     font-weight: bold;
-    src: url("assets/SFMono-Bold.otf") format("opentype");
+    src: url("https://jerenwa.github.io/learn-to-code-in-html/assets/SFMono-Bold.otf") format("opentype");
 }
 
 
