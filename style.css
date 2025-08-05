@@ -1,5 +1,5 @@
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
-@import url('https://jerenwa.github.io/how-to-code-in-html/assets/sf-mono-regular');
+@import url('https://jerenwa.github.io/how-to-code-in-html/assets/SF-Mono-Regular.otf');
 
 @media print {
   *,
@@ -63,7 +63,7 @@
 
 pre,
 code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: "SF Mono Regular", monospace;
 }
 
 pre {
