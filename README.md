@@ -39,4 +39,4 @@ San Fransico font (c) 2015, Apple, Inc.
 [issues-shield]: https://img.shields.io/github/issues/JereNwa/learn-to-code-in-html.svg?style=for-the-badge
 [issues-url]: https://github.com/JereNwa/learn-to-code-in-html/issues
 [license-shield]: https://img.shields.io/github/license/JereNwa/learn-to-code-in-html.svg?style=for-the-badge
-[license-url]: https://github.com/JereNwa/learn-to-code-in-html/LICENSE
+[license-url]: https://github.com/JereNwa/learn-to-code-in-html/LICENSE.txt
