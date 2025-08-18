@@ -7,6 +7,7 @@
    - [Breakdown](#breakdown)
    - [Tags](#tags)
    - [Breakdown (cont.)](#breakdown-cont)
+   - [The `<img>` tag](#the-img-tag)
 
 ## Hey there!
 
@@ -77,3 +78,6 @@ Last of all, the `<p>` tag is short for paragraph. It contains the text for a pa
 All of these come together to create a simple web page.
 
 Now, try copying the code for the simple page and change the text and title. Run your new code. What was the result?
+
+### The `<img>` tag
+As you can infer, the `<img>` tag allows you to add images to a page. There is one atribute that we absolutely need to add to the tag: the `src` attribute. Attributes provide additional information about elements (including tags). ''
