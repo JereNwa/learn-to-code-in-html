@@ -26,7 +26,8 @@ Text editor - Notepad or TextEdit for Windows or macOS, respectively.
 
 Code editor - Visual Studio Code for both Windows and macOS.
 
->**Always remember to keep filename extensions ticked and to end the filename with _.html_.** 
+>**Always remember to keep filename extensions ticked and to end the filename with _.html_.** <br/> 
+>**Also remember that you need to put the HTML file in a folder if you're using a text editor.**
 
 ## The Basics
 
@@ -73,11 +74,33 @@ The `<title>` tag contains the name of browser tab.
 
 The `<body>` tag contains the main part of the document, including text and images.
 
-Last of all, the `<p>` tag is short for paragraph. It contains the text for a paragraph.
+Last of all, the `<p>` tag is short for paragraph. It contains the text for a paragraph.<br/>
+There are also other tags for different types of writing:
+```
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+```
 
 All of these come together to create a simple web page.
 
 Now, try copying the code for the simple page and change the text and title. Run your new code. What was the result?
 
 ### The `<img>` tag
-As you can infer, the `<img>` tag allows you to add images to a page. There is one atribute that we absolutely need to add to the tag: the `src` attribute. Attributes provide additional information about elements (including tags). ''
+As you can infer, the `<img>` tag allows you to add images to an HTML page. There is one atribute that we absolutely need to add to the tag: the `src` attribute. Attributes provide additional information about elements (including tags). 'src' is short for source and tells us where to get the image from.<br/>
+There are two ways you can get an image into an HTML file. The first one involves downloading one yourself:
+1. Upload the file to your folder or project.
+2. Set the `src` attribute to the name of your file. So if the file is `thumbs-up.png` then you add `src="thumbs-up.png"` to the `<img>` tag like this:<br/>
+`<img src="thumbs-up.png">`
+
+The other option is to use a file hosting website (such as cubeupload), then set `src` to the URL of the image. This one takes more time than the other one.
+
+Now the task for this part is to make a website like this one by with this image below:
+
+<img src="https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862" width=200><br/>
+(The link is https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862)
+Also, due to that fact that this file is large, make sure to add another attribute `width` to make it smaller. Most favourably set it to 200. 
+Also, if you want a title in the website, use the `<h1>` tag that I mentioned earlier. If you're stuck, open devtools by pressing Ctrl + Shift + I (Windows) or ⌘+⌥+I (Mac), then click 'Elements'.
