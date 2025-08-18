@@ -46,7 +46,7 @@ Below is a simple piece of HTML code:
 </body>
 </html>
 ```
-And [this](example-1.html) is what it produces.
+And [this](html/example-1.html) is what it produces.
 
 I'm now going to break down the code.
 
