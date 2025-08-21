@@ -105,7 +105,7 @@ There are two ways you can get an image into an HTML file. The first one involve
 
 The other option is to use a file hosting website (such as cubeupload), then set `src` to the URL of the image. This one takes more time than the other one.
 
-Now the task for this part is to make a website like [this one](/html/img-tag.html) with this image below:
+Now the task for this part is to make a website like [this one](/html/img-tag.html) with this image from the Peanuts comic strip below:
 
 <img src="https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862" width=200><br/>
 (The link is https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862)
