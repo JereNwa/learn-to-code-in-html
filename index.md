@@ -110,6 +110,6 @@ Now the task for this part is to make a website like [this one](/html/img-tag.ht
 <img src="https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862" width=200><br/>
 (The link is https://github.com/user-attachments/assets/3d9140b5-df24-49b4-83e9-81ef5c9d8862)
 Also, due to that fact that this file is large, make sure to add another attribute `width` to make it smaller. Most favourably set it to 200.<br/>
-Also, if you want a title in the website, use the `<h1>` tag that I mentioned earlier. If you're stuck, open devtools by pressing Ctrl + Shift + I (Windows) or ⌘+⌥+I (Mac), then click 'Elements'.
+Also, if you want a title in the website, use the `<h1>` tag that I mentioned earlier. If you're stuck, open devtools by pressing Ctrl + Shift + I (Windows) or ⌘ (Cmd) + ⌥ (Option) + I (Mac), then click 'Elements'.
 
 Make sure to put it in the `img-tag.html` file!
