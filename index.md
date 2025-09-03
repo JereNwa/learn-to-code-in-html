@@ -26,16 +26,15 @@ Text editor - Notepad or TextEdit for Windows or macOS, respectively.
 
 Code editor - Visual Studio Code for both Windows and macOS.
 
->**Always remember to keep filename extensions ticked and to end the filename with _.html_.** <br/> 
->**Also remember that you need to put the HTML file in a folder if you're using a text editor.**
+>**Always remember to keep filename extensions ticked and to end the filename with _.html_.**
 
 ## The Basics
 
-Before we can start, you need to create a new project (VS Code) or folder (Notepad/TextEdit) with all your HTML files.
+Before we can start, you need to create a new folder with all your HTML files.
 
-Create a new folder/project called `learn-to-code`
+Create a new folder called `learn-to-code`
 
-Create a new file in the folder/project called `basic-website.html`.
+Create a new file in the folder called `basic-website.html`.
 
 To learn HTML, we're going to have to start with the basics.
 
@@ -96,14 +95,15 @@ All of these come together to create a simple web page.
 Now, try copying the code for the simple page into the `basic-website.html` file and change the text and title. Run your `basic-website.html` file in your browser. What was the result?
 
 ### The `<img>` tag
-For this lesson, create a new file in your folder/project called `img-tag.html`
+For this lesson, create a new file in your folder called `img-tag.html`
 As you can infer, the `<img>` tag allows you to add images to an HTML page. There is one atribute that we absolutely need to add to the tag: the `src` attribute. Attributes provide additional information about elements (including tags). 'src' is short for source and tells us where to get the image from.<br/>
 There are two ways you can get an image into an HTML file. The first one involves downloading one yourself:
 1. Upload the file to your folder or project.
 2. Set the `src` attribute to the name of your file. So if the file is `thumbs-up.png` then you add `src="thumbs-up.png"` to the `<img>` tag like this:<br/>
 `<img src="thumbs-up.png">`
 
-The other option is to use a file hosting website (such as cubeupload), then set `src` to the URL of the image. This one takes more time than the other one.
+The other option is to use a file hosting website (such as cubeupload), then set `src` to the URL of the image. This one takes more time than the other one.<br/>
+>**Please note that you require an account to use cubeupload.**
 
 Now the task for this part is to make a website like [this one](/html/img-tag.html) with this image from the Peanuts comic strip below:
 
