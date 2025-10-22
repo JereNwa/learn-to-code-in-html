@@ -1,5 +1,5 @@
 # learn-to-code-in-html
-
+>**Note: This project is now deprecated and is no longer being worked on. Thank you.**
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
